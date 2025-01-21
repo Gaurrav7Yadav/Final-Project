@@ -32,7 +32,7 @@ An innovative platform designed to enhance disaster preparedness by providing re
    cd safehaven-navigator
 
 ---
-## 🧑🏻‍💻Contributors:
+## 🧑🏻‍💻Contributors
 
 1. Shaivya Srivastava  (shaivya0107@gmail.com)
 2. Gaurav Yadav  (Gaurav12yadav12@gmail.com)
