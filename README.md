@@ -1,4 +1,4 @@
-# 🌐 SafeHaven Navigator  
+# 🌐 Rescue Path  
 
 An innovative platform designed to enhance disaster preparedness by providing real-time, city-specific safe escape recommendations during natural calamities. Powered by geostationary satellite data, weather APIs, and elevation maps, SafeHaven Navigator ensures user safety through data-driven insights.
 
