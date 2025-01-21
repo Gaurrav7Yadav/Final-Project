@@ -25,7 +25,8 @@ An innovative platform designed to enhance disaster preparedness by providing re
 ---
 
 ## 🛠️ Installation and Setup  
-1. Clone the repository:  
+1. Clone the repository:
+   
    ```bash
    git clone https://github.com/your-username/safehaven-navigator.git
    cd safehaven-navigator
