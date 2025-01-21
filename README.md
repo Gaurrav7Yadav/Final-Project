@@ -30,3 +30,9 @@ An innovative platform designed to enhance disaster preparedness by providing re
    ```bash
    git clone https://github.com/your-username/safehaven-navigator.git
    cd safehaven-navigator
+
+---
+## Contributors:
+
+1. Shaivya Srivastava  (shaivya0107@gmail.com)
+2. Gaurav Yadav  (Gaurav12yadav12@gmail.com)
